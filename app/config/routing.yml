@@ -1,0 +1,13 @@
+app:
+    resource: '@AppBundle/Controller/'
+    type:     siab
+    prefix: /admin
+
+api:
+    resource: '@AppBundle/Api/'
+    type:     annotation
+    prefix: /api
+
+_symfonian_indonesia:
+    resource: '@SymfonianIndonesiaAdminBundle/Resources/config/routing.yml'
+    prefix: /admin

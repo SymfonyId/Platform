@@ -42,7 +42,9 @@
         "jms/serializer-bundle": "dev-master",
         "friendsofsymfony/rest-bundle": "dev-master",
         "pagerfanta/pagerfanta": "dev-master",
-        "symfonyid/rehat-bundle": "dev-master"
+        "symfonyid/rehat-bundle": "dev-master",
+        "predis/predis": "^1.0",
+        "snc/redis-bundle": "2.x-dev"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "^2.7"

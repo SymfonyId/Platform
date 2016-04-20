@@ -2,7 +2,8 @@ assetic:
     bundles: ['AppBundle', 'SymfonianIndonesiaAdminBundle', 'FOSUserBundle']
     node: /usr/bin/nodejs #change to your path
     filters:
-        cssrewrite: ~
+        cssrewrite:
+            apply_to: '\.css$'
         uglifyjs2:
             bin: /usr/local/bin/uglifyjs #change to your path
             apply_to: '\.js$'
@@ -68,3 +69,13 @@ fos_rest:
 
 symfonian_indonesia_rehat:
     prural: ''
+
+snc_redis:
+    clients:
+        default:
+            type: predis
+            alias: default
+            dsn: redis://localhost
+
+    session:
+        client: default

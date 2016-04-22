@@ -893,12 +893,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSJsRoutingBundle.git",
-                "reference": "9be3747c10dd4ffafc86c5c0ade035c7fe1efce4"
+                "reference": "90dcbf52dae73c3cb36965ee05e7cd04e53b5b6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSJsRoutingBundle/zipball/9be3747c10dd4ffafc86c5c0ade035c7fe1efce4",
-                "reference": "9be3747c10dd4ffafc86c5c0ade035c7fe1efce4",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSJsRoutingBundle/zipball/90dcbf52dae73c3cb36965ee05e7cd04e53b5b6f",
+                "reference": "90dcbf52dae73c3cb36965ee05e7cd04e53b5b6f",
                 "shasum": ""
             },
             "require": {
@@ -944,7 +944,7 @@
                 "javascript",
                 "routing"
             ],
-            "time": "2016-04-13 09:40:48"
+            "time": "2016-04-21 13:20:58"
         },
         {
             "name": "friendsofsymfony/rest-bundle",
@@ -1611,7 +1611,7 @@
                     "email": "stof@notk.org"
                 },
                 {
-                    "name": "KnpLabs",
+                    "name": "Knplabs",
                     "homepage": "http://knplabs.com"
                 },
                 {
@@ -1631,12 +1631,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/KnpLabs/KnpPaginatorBundle.git",
-                "reference": "5147740faff4d32e6f42acf64475314c35320fa4"
+                "reference": "881b186ebef519b6d9a03bab2cab190fd58be15d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/KnpLabs/KnpPaginatorBundle/zipball/5147740faff4d32e6f42acf64475314c35320fa4",
-                "reference": "5147740faff4d32e6f42acf64475314c35320fa4",
+                "url": "https://api.github.com/repos/KnpLabs/KnpPaginatorBundle/zipball/881b186ebef519b6d9a03bab2cab190fd58be15d",
+                "reference": "881b186ebef519b6d9a03bab2cab190fd58be15d",
                 "shasum": ""
             },
             "require": {
@@ -1651,7 +1651,7 @@
             "type": "symfony-bundle",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.4.x-dev"
+                    "dev-master": "2.5.x-dev"
                 }
             },
             "autoload": {
@@ -1684,7 +1684,7 @@
                 "pagination",
                 "paginator"
             ],
-            "time": "2015-11-23 17:51:40"
+            "time": "2016-04-21 06:28:52"
         },
         {
             "name": "kriswallsmith/assetic",
@@ -3289,12 +3289,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SymfonyId/AdminBundle.git",
-                "reference": "3e646fcb4eba7d9c1967ca8ff9852a0b50ea33cb"
+                "reference": "c0e22df156bbca0bc71c3c61a7ea5062fc5f7189"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/AdminBundle/zipball/f987db1b799a536756a060678c1bd8368c22d44f",
-                "reference": "3e646fcb4eba7d9c1967ca8ff9852a0b50ea33cb",
+                "url": "https://api.github.com/repos/SymfonyId/AdminBundle/zipball/c0e22df156bbca0bc71c3c61a7ea5062fc5f7189",
+                "reference": "c0e22df156bbca0bc71c3c61a7ea5062fc5f7189",
                 "shasum": ""
             },
             "require": {
@@ -3352,7 +3352,7 @@
                 "simple admin",
                 "symfony admin"
             ],
-            "time": "2016-04-20 00:11:14"
+            "time": "2016-04-22 06:51:40"
         },
         {
             "name": "symfonyid/core-bundle",
@@ -3415,12 +3415,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SymfonyId/RehatBundle.git",
-                "reference": "2a6335bbb049cdd33e4a986df7bf38b0b9cfde21"
+                "reference": "ccbf5300b70d640a1248278a949141782c06467e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/RehatBundle/zipball/2a6335bbb049cdd33e4a986df7bf38b0b9cfde21",
-                "reference": "2a6335bbb049cdd33e4a986df7bf38b0b9cfde21",
+                "url": "https://api.github.com/repos/SymfonyId/RehatBundle/zipball/ccbf5300b70d640a1248278a949141782c06467e",
+                "reference": "ccbf5300b70d640a1248278a949141782c06467e",
                 "shasum": ""
             },
             "require": {
@@ -3476,7 +3476,7 @@
                 "symfony admin",
                 "symfony3"
             ],
-            "time": "2016-04-12 04:48:22"
+            "time": "2016-04-22 10:08:58"
         },
         {
             "name": "symfonyid/symfony-bundle-plugins",

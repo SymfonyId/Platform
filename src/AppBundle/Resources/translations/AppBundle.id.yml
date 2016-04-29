@@ -31,6 +31,8 @@ action:
     edit: 'Edit'
     delete: 'Hapus'
     submit: 'Simpan'
+    submit_all: 'Simpan Semua'
+    download: 'Export Csv'
 
 link:
     home: 'DASHBOARD'
@@ -92,4 +94,4 @@ entity:
         kategori: 'Kategori'
         deskripsi: 'Deskripsi'
         package: 'Package'
-        url_download: 'Url Download'
+        urlDownload: 'Url Download'

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "14daacc03735f6d53b54262655f85297",
-    "content-hash": "28acd453aff5fd72322edd264c21b93b",
+    "hash": "4f6f3d19a5e13d91794cf5abd595a046",
+    "content-hash": "8a3c80c1b32b054ba702c7a4449158c4",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -952,12 +952,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSRestBundle.git",
-                "reference": "df94140dc39bc591b7c2ce7cd9e791594fad7b28"
+                "reference": "a422c7a230f1e88e0e57a70dbe7eb7571b2abf35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSRestBundle/zipball/df94140dc39bc591b7c2ce7cd9e791594fad7b28",
-                "reference": "df94140dc39bc591b7c2ce7cd9e791594fad7b28",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSRestBundle/zipball/a422c7a230f1e88e0e57a70dbe7eb7571b2abf35",
+                "reference": "a422c7a230f1e88e0e57a70dbe7eb7571b2abf35",
                 "shasum": ""
             },
             "require": {
@@ -1032,7 +1032,7 @@
             "keywords": [
                 "rest"
             ],
-            "time": "2016-03-31 21:02:10"
+            "time": "2016-04-27 17:07:23"
         },
         {
             "name": "friendsofsymfony/user-bundle",
@@ -1040,12 +1040,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSUserBundle.git",
-                "reference": "16b04c49af05dd3fb381e4abe04f0e5e231ac76d"
+                "reference": "def27463609e24af410b2606f0062de46fab5662"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/16b04c49af05dd3fb381e4abe04f0e5e231ac76d",
-                "reference": "16b04c49af05dd3fb381e4abe04f0e5e231ac76d",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/def27463609e24af410b2606f0062de46fab5662",
+                "reference": "def27463609e24af410b2606f0062de46fab5662",
                 "shasum": ""
             },
             "require": {
@@ -1101,7 +1101,7 @@
             "keywords": [
                 "User management"
             ],
-            "time": "2016-03-08 11:05:28"
+            "time": "2016-04-28 10:51:07"
         },
         {
             "name": "incenteev/composer-parameter-handler",
@@ -1574,12 +1574,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/KnpLabs/KnpMenuBundle.git",
-                "reference": "5e7c44cb084b5c4f842f94ab443fb5dbb3f7a44c"
+                "reference": "8b68a6710392f82b007648c6aba4fdfd19b4bf9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/KnpLabs/KnpMenuBundle/zipball/5e7c44cb084b5c4f842f94ab443fb5dbb3f7a44c",
-                "reference": "5e7c44cb084b5c4f842f94ab443fb5dbb3f7a44c",
+                "url": "https://api.github.com/repos/KnpLabs/KnpMenuBundle/zipball/8b68a6710392f82b007648c6aba4fdfd19b4bf9f",
+                "reference": "8b68a6710392f82b007648c6aba4fdfd19b4bf9f",
                 "shasum": ""
             },
             "require": {
@@ -1623,7 +1623,7 @@
             "keywords": [
                 "menu"
             ],
-            "time": "2016-03-11 18:13:54"
+            "time": "2016-04-25 22:07:03"
         },
         {
             "name": "knplabs/knp-paginator-bundle",
@@ -2362,16 +2362,16 @@
         },
         {
             "name": "sensio/distribution-bundle",
-            "version": "v5.0.5",
+            "version": "v5.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "3a160355bb1364da55ed9e415c1aa1fa8d457b6f"
+                "reference": "ffe306d09c1f2bad721237f63b2169d1b78253d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/3a160355bb1364da55ed9e415c1aa1fa8d457b6f",
-                "reference": "3a160355bb1364da55ed9e415c1aa1fa8d457b6f",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/ffe306d09c1f2bad721237f63b2169d1b78253d0",
+                "reference": "ffe306d09c1f2bad721237f63b2169d1b78253d0",
                 "shasum": ""
             },
             "require": {
@@ -2410,7 +2410,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2016-03-15 16:21:41"
+            "time": "2016-04-25 20:50:31"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -3291,12 +3291,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SymfonyId/AdminBundle.git",
-                "reference": "f2bff2d202c7cd895cc4f0bcf96eda6aebf7897f"
+                "reference": "1176d0540fd69bb0a60e96905758792c4ddd35c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/AdminBundle/zipball/f2bff2d202c7cd895cc4f0bcf96eda6aebf7897f",
-                "reference": "f2bff2d202c7cd895cc4f0bcf96eda6aebf7897f",
+                "url": "https://api.github.com/repos/SymfonyId/AdminBundle/zipball/1176d0540fd69bb0a60e96905758792c4ddd35c1",
+                "reference": "1176d0540fd69bb0a60e96905758792c4ddd35c1",
                 "shasum": ""
             },
             "require": {
@@ -3313,9 +3313,7 @@
                 "sensio/generator-bundle": "^3.0",
                 "symfony/monolog-bundle": "^2.8",
                 "symfony/swiftmailer-bundle": "^2.3",
-                "symfony/symfony": "3.0.*",
-                "symfonyid/core-bundle": "dev-master",
-                "symfonyid/symfony-bundle-plugins": "dev-master"
+                "symfony/symfony": "3.0.*"
             },
             "require-dev": {
                 "phpunit/phpunit": "5.*"
@@ -3354,62 +3352,7 @@
                 "simple admin",
                 "symfony admin"
             ],
-            "time": "2016-04-25 11:02:48"
-        },
-        {
-            "name": "symfonyid/core-bundle",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/SymfonyId/CoreBundle.git",
-                "reference": "175a93f820ca3f19a2a96bdba8ebbd372954e8ca"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/CoreBundle/zipball/175a93f820ca3f19a2a96bdba8ebbd372954e8ca",
-                "reference": "175a93f820ca3f19a2a96bdba8ebbd372954e8ca",
-                "shasum": ""
-            },
-            "require": {
-                "doctrine/dbal": "*",
-                "doctrine/orm": "*",
-                "knplabs/knp-paginator-bundle": "~2.4",
-                "php": ">=5.5.9",
-                "symfony/symfony": "*",
-                "symfonyid/symfony-bundle-plugins": "dev-master"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "5.1.*"
-            },
-            "type": "symfony-bundle",
-            "autoload": {
-                "psr-4": {
-                    "Symfonian\\Indonesia\\CoreBundle\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Surya Ihsanuddin",
-                    "homepage": "https://github.com/ihsanudin"
-                },
-                {
-                    "name": "Komunitas Symfony Indonesia",
-                    "homepage": "https://github.com/SymfonyId/CoreBundle"
-                }
-            ],
-            "description": "Provide toolkit for any project",
-            "homepage": "https://github.com/SymfonyId/CoreBundle",
-            "keywords": [
-                "Symfony2",
-                "bundle",
-                "ihsanudin",
-                "toolkit"
-            ],
-            "time": "2016-04-25 10:47:34"
+            "time": "2016-04-29 08:01:09"
         },
         {
             "name": "symfonyid/rehat-bundle",
@@ -3479,66 +3422,6 @@
                 "symfony3"
             ],
             "time": "2016-04-22 10:08:58"
-        },
-        {
-            "name": "symfonyid/symfony-bundle-plugins",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/SymfonyId/BundlePlugins.git",
-                "reference": "8b97265376d4a1d69806218cc9b3db139c7a82f9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/BundlePlugins/zipball/8b97265376d4a1d69806218cc9b3db139c7a82f9",
-                "reference": "8b97265376d4a1d69806218cc9b3db139c7a82f9",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.5.9",
-                "symfony/config": "*",
-                "symfony/dependency-injection": "*",
-                "symfony/http-kernel": "*"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.0",
-                "satooshi/php-coveralls": "^0.6.1",
-                "symfony/framework-bundle": "*"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Symfonian\\Indonesia\\BundlePlugins\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Matthias Noback",
-                    "email": "matthiasnoback@gmail.com",
-                    "homepage": "http://php-and-symfony.matthiasnoback.nl"
-                },
-                {
-                    "name": "Komunitas Symfony Indonesia",
-                    "homepage": "https://github.com/SymfonyId/AdminBundle"
-                },
-                {
-                    "name": "Muhammad Surya Ihsanuddin",
-                    "email": "surya.kejawen@gmail.com",
-                    "homepage": "https://github.com/ihsanudin"
-                }
-            ],
-            "description": "Allow Symfony bundles to have plugins",
-            "homepage": "http://github.com/ihsanudin/symfony-bundle-plugins",
-            "keywords": [
-                "bundle",
-                "plugin",
-                "symfony"
-            ],
-            "time": "2016-03-15 05:04:42"
         },
         {
             "name": "twig/twig",
@@ -3871,8 +3754,6 @@
         "doctrine/doctrine-fixtures-bundle": 20,
         "knplabs/knp-paginator-bundle": 20,
         "knplabs/knp-menu-bundle": 20,
-        "symfonyid/core-bundle": 20,
-        "symfonyid/symfony-bundle-plugins": 20,
         "friendsofsymfony/user-bundle": 20,
         "friendsofsymfony/jsrouting-bundle": 20,
         "symfonyid/admin-bundle": 20,

@@ -32,12 +32,6 @@ class KategoriType extends AbstractType
                     'class' => 'form-control',
                 ),
             ))
-            ->add('save', SubmitType::class, array(
-                'label' => 'Submit',
-                'attr' => array(
-                    'class' => 'btn btn-primary',
-                ),
-            ))
         ;
     }
     /**

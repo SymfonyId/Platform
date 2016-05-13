@@ -17,7 +17,7 @@ class SymfonyIdPlatformSetupCommand extends ContainerAwareCommand
     protected function configure()
     {
         $this
-            ->setName('symfonyid:platorm:setup')
+            ->setName('symfonyid:platform:setup')
             ->setDescription('SymfonyId Platfom Setup')
         ;
     }

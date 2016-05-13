@@ -5,7 +5,7 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 use Hateoas\Configuration\Annotation as Hateoas;
 use JMS\Serializer\Annotation as Serializer;
-use Symfonian\Indonesia\CoreBundle\Toolkit\DoctrineManager\Model\EntityInterface as AdminInterface;
+use Symfonian\Indonesia\AdminBundle\Contract\EntityInterface as AdminInterface;
 use Symfonian\Indonesia\RehatBundle\Annotation\Filterable;
 use Symfonian\Indonesia\RehatBundle\Annotation\Searchable;
 use Symfonian\Indonesia\RehatBundle\Annotation\Sortable;

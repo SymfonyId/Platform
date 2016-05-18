@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "14daacc03735f6d53b54262655f85297",
-    "content-hash": "28acd453aff5fd72322edd264c21b93b",
+    "hash": "4f6f3d19a5e13d91794cf5abd595a046",
+    "content-hash": "8a3c80c1b32b054ba702c7a4449158c4",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -893,12 +893,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSJsRoutingBundle.git",
-                "reference": "90dcbf52dae73c3cb36965ee05e7cd04e53b5b6f"
+                "reference": "4a3f3ea8298775f06a01e2c85c9c0e5d5d22d797"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSJsRoutingBundle/zipball/90dcbf52dae73c3cb36965ee05e7cd04e53b5b6f",
-                "reference": "90dcbf52dae73c3cb36965ee05e7cd04e53b5b6f",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSJsRoutingBundle/zipball/4a3f3ea8298775f06a01e2c85c9c0e5d5d22d797",
+                "reference": "4a3f3ea8298775f06a01e2c85c9c0e5d5d22d797",
                 "shasum": ""
             },
             "require": {
@@ -944,7 +944,7 @@
                 "javascript",
                 "routing"
             ],
-            "time": "2016-04-21 13:20:58"
+            "time": "2016-05-11 15:04:31"
         },
         {
             "name": "friendsofsymfony/rest-bundle",
@@ -952,12 +952,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSRestBundle.git",
-                "reference": "df94140dc39bc591b7c2ce7cd9e791594fad7b28"
+                "reference": "665986f912f832c6ab08521624baf7baf6657377"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSRestBundle/zipball/df94140dc39bc591b7c2ce7cd9e791594fad7b28",
-                "reference": "df94140dc39bc591b7c2ce7cd9e791594fad7b28",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSRestBundle/zipball/665986f912f832c6ab08521624baf7baf6657377",
+                "reference": "665986f912f832c6ab08521624baf7baf6657377",
                 "shasum": ""
             },
             "require": {
@@ -985,7 +985,7 @@
                 "symfony/form": "^2.7|^3.0",
                 "symfony/phpunit-bridge": "~2.7|^3.0",
                 "symfony/security-bundle": "^2.7|^3.0",
-                "symfony/serializer": "^2.7|^3.0",
+                "symfony/serializer": "^2.7.11|^3.0.4",
                 "symfony/twig-bundle": "^2.7|^3.0",
                 "symfony/validator": "^2.7|^3.0",
                 "symfony/web-profiler-bundle": "^2.7|^3.0",
@@ -1032,7 +1032,7 @@
             "keywords": [
                 "rest"
             ],
-            "time": "2016-03-31 21:02:10"
+            "time": "2016-05-06 07:08:45"
         },
         {
             "name": "friendsofsymfony/user-bundle",
@@ -1040,12 +1040,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSUserBundle.git",
-                "reference": "16b04c49af05dd3fb381e4abe04f0e5e231ac76d"
+                "reference": "abb35b94ed8ec78a504c9e1a2cd803d85d3ffad9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/16b04c49af05dd3fb381e4abe04f0e5e231ac76d",
-                "reference": "16b04c49af05dd3fb381e4abe04f0e5e231ac76d",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/abb35b94ed8ec78a504c9e1a2cd803d85d3ffad9",
+                "reference": "abb35b94ed8ec78a504c9e1a2cd803d85d3ffad9",
                 "shasum": ""
             },
             "require": {
@@ -1101,7 +1101,7 @@
             "keywords": [
                 "User management"
             ],
-            "time": "2016-03-08 11:05:28"
+            "time": "2016-05-13 11:27:34"
         },
         {
             "name": "incenteev/composer-parameter-handler",
@@ -1436,16 +1436,16 @@
         },
         {
             "name": "knplabs/knp-components",
-            "version": "1.3.2",
+            "version": "1.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/KnpLabs/knp-components.git",
-                "reference": "4503275e4f1a0e9667aa65b0ebed842ef2d8d8ba"
+                "reference": "bc49e739d1cce94d783b1e23bc5b263b38dc47da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/KnpLabs/knp-components/zipball/4503275e4f1a0e9667aa65b0ebed842ef2d8d8ba",
-                "reference": "4503275e4f1a0e9667aa65b0ebed842ef2d8d8ba",
+                "url": "https://api.github.com/repos/KnpLabs/knp-components/zipball/bc49e739d1cce94d783b1e23bc5b263b38dc47da",
+                "reference": "bc49e739d1cce94d783b1e23bc5b263b38dc47da",
                 "shasum": ""
             },
             "require": {
@@ -1454,6 +1454,8 @@
             "require-dev": {
                 "doctrine/mongodb-odm": "~1.0@beta",
                 "doctrine/orm": "~2.4",
+                "doctrine/phpcr-odm": "~1.2",
+                "jackalope/jackalope-doctrine-dbal": "~1.2",
                 "phpunit/phpunit": "~4.2",
                 "ruflin/elastica": "~1.0",
                 "symfony/event-dispatcher": "~2.5"
@@ -1462,6 +1464,7 @@
                 "doctrine/common": "to allow usage pagination with Doctrine ArrayCollection",
                 "doctrine/mongodb-odm": "to allow usage pagination with Doctrine ODM MongoDB",
                 "doctrine/orm": "to allow usage pagination with Doctrine ORM",
+                "doctrine/phpcr-odm": "to allow usage pagination with Doctrine ODM PHPCR",
                 "propel/propel1": "to allow usage pagination with Propel ORM",
                 "ruflin/Elastica": "to allow usage pagination with ElasticSearch Client",
                 "solarium/solarium": "to allow usage pagination with Solarium Client"
@@ -1500,7 +1503,7 @@
                 "pager",
                 "paginator"
             ],
-            "time": "2015-09-01 10:54:53"
+            "time": "2016-04-21 06:26:20"
         },
         {
             "name": "knplabs/knp-menu",
@@ -2576,12 +2579,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/snc/SncRedisBundle.git",
-                "reference": "baa89a36bdb2483d7571ba5a748f5bb9aa8a6b71"
+                "reference": "f9f7308680940a095ebc2764cc408125ed365cf6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/snc/SncRedisBundle/zipball/baa89a36bdb2483d7571ba5a748f5bb9aa8a6b71",
-                "reference": "baa89a36bdb2483d7571ba5a748f5bb9aa8a6b71",
+                "url": "https://api.github.com/repos/snc/SncRedisBundle/zipball/f9f7308680940a095ebc2764cc408125ed365cf6",
+                "reference": "f9f7308680940a095ebc2764cc408125ed365cf6",
                 "shasum": ""
             },
             "require": {
@@ -2633,20 +2636,20 @@
                 "redis",
                 "symfony"
             ],
-            "time": "2016-02-15 13:14:43"
+            "time": "2016-05-14 12:15:40"
         },
         {
             "name": "swiftmailer/swiftmailer",
-            "version": "v5.4.1",
+            "version": "v5.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swiftmailer/swiftmailer.git",
-                "reference": "0697e6aa65c83edf97bb0f23d8763f94e3f11421"
+                "reference": "d8db871a54619458a805229a057ea2af33c753e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/0697e6aa65c83edf97bb0f23d8763f94e3f11421",
-                "reference": "0697e6aa65c83edf97bb0f23d8763f94e3f11421",
+                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/d8db871a54619458a805229a057ea2af33c753e8",
+                "reference": "d8db871a54619458a805229a057ea2af33c753e8",
                 "shasum": ""
             },
             "require": {
@@ -2686,7 +2689,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2015-06-06 14:19:39"
+            "time": "2016-05-01 08:45:47"
         },
         {
             "name": "symfony/assetic-bundle",
@@ -3161,16 +3164,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.0.4",
+            "version": "v3.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff"
+                "reference": "a821ed51b87f5ceda834140e5f0c06e9547a86d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff",
-                "reference": "4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/a821ed51b87f5ceda834140e5f0c06e9547a86d4",
+                "reference": "a821ed51b87f5ceda834140e5f0c06e9547a86d4",
                 "shasum": ""
             },
             "require": {
@@ -3253,7 +3256,11 @@
             },
             "autoload": {
                 "psr-4": {
-                    "Symfony\\Bridge\\": "src/Symfony/Bridge/",
+                    "Symfony\\Bridge\\Doctrine\\": "src/Symfony/Bridge/Doctrine/",
+                    "Symfony\\Bridge\\Monolog\\": "src/Symfony/Bridge/Monolog/",
+                    "Symfony\\Bridge\\ProxyManager\\": "src/Symfony/Bridge/ProxyManager/",
+                    "Symfony\\Bridge\\Swiftmailer\\": "src/Symfony/Bridge/Swiftmailer/",
+                    "Symfony\\Bridge\\Twig\\": "src/Symfony/Bridge/Twig/",
                     "Symfony\\Bundle\\": "src/Symfony/Bundle/",
                     "Symfony\\Component\\": "src/Symfony/Component/"
                 },
@@ -3283,7 +3290,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2016-03-30 10:41:14"
+            "time": "2016-05-09 22:13:31"
         },
         {
             "name": "symfonyid/admin-bundle",
@@ -3291,12 +3298,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SymfonyId/AdminBundle.git",
-                "reference": "2881dd352431a583a2f109135acc6103ed4d4324"
+                "reference": "45f3a76872fcf6e74412da98dd3e2998fd159824"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/AdminBundle/zipball/2881dd352431a583a2f109135acc6103ed4d4324",
-                "reference": "2881dd352431a583a2f109135acc6103ed4d4324",
+                "url": "https://api.github.com/repos/SymfonyId/AdminBundle/zipball/45f3a76872fcf6e74412da98dd3e2998fd159824",
+                "reference": "45f3a76872fcf6e74412da98dd3e2998fd159824",
                 "shasum": ""
             },
             "require": {
@@ -3313,12 +3320,14 @@
                 "sensio/generator-bundle": "^3.0",
                 "symfony/monolog-bundle": "^2.8",
                 "symfony/swiftmailer-bundle": "^2.3",
-                "symfony/symfony": "3.0.*",
-                "symfonyid/core-bundle": "dev-master",
-                "symfonyid/symfony-bundle-plugins": "dev-master"
+                "symfony/symfony": "3.0.*"
             },
             "require-dev": {
                 "phpunit/phpunit": "5.*"
+            },
+            "suggest": {
+                "doctrine/mongodb-odm": "Needed when using the odm implementation",
+                "doctrine/mongodb-odm-bundle": "Needed when using the odm implementation"
             },
             "type": "symfony-bundle",
             "autoload": {
@@ -3354,62 +3363,7 @@
                 "simple admin",
                 "symfony admin"
             ],
-            "time": "2016-04-26 23:07:05"
-        },
-        {
-            "name": "symfonyid/core-bundle",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/SymfonyId/CoreBundle.git",
-                "reference": "d2713146e33e48ef442505a492c17f20e7067f7d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/CoreBundle/zipball/d2713146e33e48ef442505a492c17f20e7067f7d",
-                "reference": "d2713146e33e48ef442505a492c17f20e7067f7d",
-                "shasum": ""
-            },
-            "require": {
-                "doctrine/dbal": "*",
-                "doctrine/orm": "*",
-                "knplabs/knp-paginator-bundle": "~2.4",
-                "php": ">=5.5.9",
-                "symfony/symfony": "*",
-                "symfonyid/symfony-bundle-plugins": "dev-master"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "5.1.*"
-            },
-            "type": "symfony-bundle",
-            "autoload": {
-                "psr-4": {
-                    "Symfonian\\Indonesia\\CoreBundle\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Surya Ihsanuddin",
-                    "homepage": "https://github.com/ihsanudin"
-                },
-                {
-                    "name": "Komunitas Symfony Indonesia",
-                    "homepage": "https://github.com/SymfonyId/CoreBundle"
-                }
-            ],
-            "description": "Provide toolkit for any project",
-            "homepage": "https://github.com/SymfonyId/CoreBundle",
-            "keywords": [
-                "Symfony2",
-                "bundle",
-                "ihsanudin",
-                "toolkit"
-            ],
-            "time": "2016-04-26 03:52:17"
+            "time": "2016-05-18 12:03:54"
         },
         {
             "name": "symfonyid/rehat-bundle",
@@ -3479,66 +3433,6 @@
                 "symfony3"
             ],
             "time": "2016-04-22 10:08:58"
-        },
-        {
-            "name": "symfonyid/symfony-bundle-plugins",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/SymfonyId/BundlePlugins.git",
-                "reference": "8b97265376d4a1d69806218cc9b3db139c7a82f9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/SymfonyId/BundlePlugins/zipball/8b97265376d4a1d69806218cc9b3db139c7a82f9",
-                "reference": "8b97265376d4a1d69806218cc9b3db139c7a82f9",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.5.9",
-                "symfony/config": "*",
-                "symfony/dependency-injection": "*",
-                "symfony/http-kernel": "*"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.0",
-                "satooshi/php-coveralls": "^0.6.1",
-                "symfony/framework-bundle": "*"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Symfonian\\Indonesia\\BundlePlugins\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Matthias Noback",
-                    "email": "matthiasnoback@gmail.com",
-                    "homepage": "http://php-and-symfony.matthiasnoback.nl"
-                },
-                {
-                    "name": "Komunitas Symfony Indonesia",
-                    "homepage": "https://github.com/SymfonyId/AdminBundle"
-                },
-                {
-                    "name": "Muhammad Surya Ihsanuddin",
-                    "email": "surya.kejawen@gmail.com",
-                    "homepage": "https://github.com/ihsanudin"
-                }
-            ],
-            "description": "Allow Symfony bundles to have plugins",
-            "homepage": "http://github.com/ihsanudin/symfony-bundle-plugins",
-            "keywords": [
-                "bundle",
-                "plugin",
-                "symfony"
-            ],
-            "time": "2016-03-15 05:04:42"
         },
         {
             "name": "twig/twig",
@@ -3811,16 +3705,16 @@
     "packages-dev": [
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v2.8.4",
+            "version": "v2.8.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
-                "reference": "a967db6a4cd5d276cf849d01b29dba559e149978"
+                "reference": "9d30940765450ccc58bc39f4bda30cc412101b4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/a967db6a4cd5d276cf849d01b29dba559e149978",
-                "reference": "a967db6a4cd5d276cf849d01b29dba559e149978",
+                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/9d30940765450ccc58bc39f4bda30cc412101b4b",
+                "reference": "9d30940765450ccc58bc39f4bda30cc412101b4b",
                 "shasum": ""
             },
             "require": {
@@ -3862,7 +3756,7 @@
             ],
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
-            "time": "2016-03-23 13:45:24"
+            "time": "2016-04-05 16:36:54"
         }
     ],
     "aliases": [],
@@ -3871,8 +3765,6 @@
         "doctrine/doctrine-fixtures-bundle": 20,
         "knplabs/knp-paginator-bundle": 20,
         "knplabs/knp-menu-bundle": 20,
-        "symfonyid/core-bundle": 20,
-        "symfonyid/symfony-bundle-plugins": 20,
         "friendsofsymfony/user-bundle": 20,
         "friendsofsymfony/jsrouting-bundle": 20,
         "symfonyid/admin-bundle": 20,
